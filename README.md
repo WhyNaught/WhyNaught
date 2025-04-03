@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Umar, a CS major at the University of Waterloo 
 
-<!--
-**WhyNaught/WhyNaught** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 
+I mainly do backend development, but I've also worked a lot with devops, ML, and the cloud. 
 
-Here are some ideas to get you started:
+## Tech Stack
+- **frontend** React, sometimes Vue
+- **backend** Spring Boot & Java mainly, but also Express and Django
+- **cloud** AWS, Kubernetes 
+- **db** Postgres, sometimes Mongo
+- **tooling** CLI & SLURM tools with C++ mainly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other stuff 
+- **bass guitar** I play a lot in my free time
+- **languages** i can speak 5
+- **weebery** my [MAL](https://myanimelist.net/animelist/Why_Naught) profile speaks for itself
+
+![image](https://github.com/user-attachments/assets/898f9bb7-eb64-425a-8595-75b39d122d7f)
