@@ -15,4 +15,4 @@ I mainly do backend development, but I've also worked a lot with devops, ML, and
 - **languages**: i can speak 5
 - **weebery**: my [MAL](https://myanimelist.net/animelist/Why_Naught) profile speaks for itself
 
-![Bocchi GIF](https://media.tenor.com/9hIuG9nYdBMAAAAC/bocchi-the-rock-bocchi.gif)
+![Bocchi GIF]([https://media.tenor.com/9hIuG9nYdBMAAAAC/bocchi-the-rock-bocchi.gif](https://media1.tenor.com/m/p1SESJZYkscAAAAd/bocchi-the-rock-bocchi.gif))
