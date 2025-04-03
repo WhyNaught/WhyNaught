@@ -15,4 +15,4 @@ I mainly do backend development, but I've also worked a lot with devops, ML, and
 - **languages**: i can speak 5
 - **weebery**: my [MAL](https://myanimelist.net/animelist/Why_Naught) profile speaks for itself
 
-<div class="tenor-gif-embed" data-postid="26931504" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/bocchi-the-rock-bocchi-gif-26931504">Bocchi The Rock GIF</a>from <a href="https://tenor.com/search/bocchi+the+rock-gifs">Bocchi The Rock GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![gif](https://tenor.com/en-GB/view/bocchi-the-rock-bocchi-gif-26931504)
