@@ -14,5 +14,3 @@ I mainly do backend development, but I've also worked a lot with devops, ML, and
 - **bass guitar**: I play a lot in my free time, mostly alt-rock and j-rock
 - **languages**: i can speak 5
 - **weebery**: my [MAL](https://myanimelist.net/animelist/Why_Naught) profile speaks for itself
-
-![gif](https://media1.tenor.com/m/p1SESJZYkscAAAAd/bocchi-the-rock-bocchi.gif)
