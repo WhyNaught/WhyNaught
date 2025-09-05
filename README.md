@@ -1,7 +1,7 @@
 ## Hi, I'm Umar, a CS major at the University of Waterloo 
 
 ## About Me 
-I mainly do backend development, but I've also worked a lot with devops, ML, and the cloud. 
+Backend developer (mainly)
 
 ## Tech Stack
 - **frontend**: React, sometimes Vue
