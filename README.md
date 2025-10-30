@@ -1,7 +1,7 @@
 ## Hi, I'm Umar, a CS major at the University of Waterloo 
 
 ## About Me 
-2nd year CS major at Waterloo. Previous Software Engineer at NationGraph.
+2nd year CS major at Waterloo. Incoming Software Engineer at StackAdapt. Previous Software Engineer at NationGraph.
 
 ## Programming Languages 
 C++, C, C#, Python, Java, TypeScript, Go
