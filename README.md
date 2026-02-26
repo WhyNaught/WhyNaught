@@ -3,16 +3,6 @@
 ## About Me 
 2nd year CS major at Waterloo. SWE @ StackAdapt
 
-## Programming Languages 
-C++, C, C#, Python, Java, TypeScript, Go, Ruby
-
-## Tech Stack
-- **frontend**: mainly Next.js and React, paired with TypeScript
-- **backend**: Spring Boot is my go-to framework, though I've used FastAPI and Go on the job 
-- **deployment**: AWS, Google Cloud Platform, Microsoft Azure (yes I've used all three before), Kubernetes
-- **machine learning**: Pytorch + SKLearn
-- **data**: Postgres, sometimes Mongo
-
 ## Other interests 
 - **electric bass**: I play a lot in my free time, mostly alt-rock and j-rock
 - **electric guitar**: I also play a lot, again mainly j-rock and alt-rock
