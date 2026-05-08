@@ -1,7 +1,7 @@
 ## Hi, I'm Umar, a CS major at the University of Waterloo 
 
 ## About Me 
-2nd year CS major at Waterloo. SWE @ StackAdapt
+2nd year CS major at Waterloo. Prev @ StackAdapt
 
 ## Other interests 
 - **electric bass**: I play a lot in my free time, mostly alt-rock and j-rock
