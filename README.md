@@ -1,4 +1,4 @@
-3rd year CS major at Waterloo. Prev @ StackAdapt, NationGraph
+3rd year CS major at Waterloo. SWE @ StackAdapt. Prev @ NationGraph
 
 ## fun facts  
 - **electric bass**: Bassist for [Musimko Domino](https://www.youtube.com/@musimko_domino) . I play a lot in my free time, mostly alt-rock and j-rock. 
